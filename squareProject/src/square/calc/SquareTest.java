@@ -8,7 +8,7 @@ public class SquareTest {
 			Integer value = Integer.valueOf(args[0]);
 			System.out.println(value * value);
 		} else {
-			System.out.println("No value introduced");
+			System.out.println("No value introduced !");
 		}
 
 	}
