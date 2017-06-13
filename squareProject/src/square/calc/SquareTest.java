@@ -1,7 +1,8 @@
 package square.calc;
 
 /**
- * aaaaa
+ * Squares calculation
+ *
  * @author Houssem KALLEL
  *
  */
