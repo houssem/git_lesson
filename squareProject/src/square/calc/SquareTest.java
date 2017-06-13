@@ -1,5 +1,10 @@
 package square.calc;
 
+/**
+ *
+ * @author Houssem KALLEL
+ *
+ */
 public class SquareTest {
 
 	public static void main(String[] args) {
