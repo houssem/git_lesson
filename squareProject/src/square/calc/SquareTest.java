@@ -11,6 +11,7 @@ public class SquareTest {
 			System.out.println("No value introduced !");
 		}
 
+		System.out.println("End square calculation");
 	}
 
 }
